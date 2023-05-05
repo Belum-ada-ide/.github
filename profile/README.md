@@ -1,1 +1,1 @@
-# SayurAi : A Marketplace with Veggetables Classification and Quality Detection
+# paterAi : A Marketplace with Veggetables Classification and Quality Detection

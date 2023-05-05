@@ -1,8 +1,6 @@
 # paterAi : A Marketplace with Veggetables Classification and Quality Detection
 
 ## Table of Contents
-- [paterAi : A Marketplace with Veggetables Classification and Quality Detection](#paterai--a-marketplace-with-veggetables-classification-and-quality-detection)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Installation](#installation)
   - [References](#references)

@@ -17,4 +17,4 @@ This project is focused on providing consumers with a platform to access locally
 [Proposal](https://docs.google.com/document/d/1nR8nQ83PD-7gOIk721MBv51fhXI1FZix844JEraCZbw/edit)
 
 ## Design
-[Figma](https://www.figma.com/file/2kBQDNI5SZExUcOk2XE2xy/paterAi?type=design&node-id=0%3A1&t=W4dcFWEmlyDMmkGh-1](https://www.figma.com/file/TOWJMI4PhflPY25GS8eaHN/Untitled?type=design&node-id=0%3A1&t=g0fvC0uiFzi6GEF9-1))
+[Figma](https://www.figma.com/file/TOWJMI4PhflPY25GS8eaHN/Untitled?type=design&node-id=0%3A1&t=g0fvC0uiFzi6GEF9-1)

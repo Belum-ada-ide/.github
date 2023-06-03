@@ -1,4 +1,4 @@
-# paterAi : A Marketplace with Veggetables Classification and Quality Detection
+# paterAi : A Marketplace with Vegetables Classification and Quality Detection
 
 ## Table of Contents
   - [Introduction](#introduction)
